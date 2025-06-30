@@ -1,7 +1,12 @@
 # Yousef Islam
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey there! I'm Yousef&animation=fadeIn&type=waving&color=gradient&height=100" alt="Header" />
+<iframe
+  src="https://capsule-render.vercel.app/api?text=Hey%20there!%20I%27m%20Yousef&animation=fadeIn&type=waving&color=gradient&height=100"
+  frameborder="0"
+  scrolling="no"
+  style="width:100%; height:120px; border:none; overflow:hidden;"
+></iframe>
 </p>
 
 <p align="center">Passionate Creative Developer with a strong interest in AI technologies. I enjoy building intuitive and dynamic web applications and exploring the intersection of design and artificial intelligence. My goal is to leverage technology to create impactful and innovative solutions.</p>
