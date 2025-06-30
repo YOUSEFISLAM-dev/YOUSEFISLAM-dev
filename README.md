@@ -1,48 +1,48 @@
-# 👋 Hello, I'm Yousef Islam (@YOUSEFISLAM-dev)
+# Yousef Islam
 
-Welcome to my GitHub profile! I'm a passionate and self-driven developer with a growing interest in **Artificial Intelligence**, **Software Development**, and **Cybersecurity**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey there! I'm Yousef&animation=fadeIn&type=waving&color=gradient&height=100" alt="Header" />
+</p>
 
----
+<p align="center">Passionate Creative Developer with a strong interest in AI technologies. I enjoy building intuitive and dynamic web applications and exploring the intersection of design and artificial intelligence. My goal is to leverage technology to create impactful and innovative solutions.</p>
 
-## 🧠 About Me
+## Skills
 
-- 🔭 Currently diving deep into the world of **Cybersecurity**
-- 🤖 Enthusiastic about **AI**, **Machine Learning**, and **Automation**
-- 🛠️ Constantly building, learning, and experimenting with new technologies
-- 🤝 Open to collaborate on **ambitious, large-scale projects**
-- 💬 Always up for tech discussions and knowledge sharing
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
----
+## Projects
 
-## 🚀 Technical Interests
+- **Advanced File Organizer Batch**: A batch tool for automatic file organization by extension, date, size, or removing empty folders. ([Learn More](https://yousef-dev.tech/selfhosted/organizer_web.shtml))
+- **Minecraft Bedrock AI Player (Python)**: An AI-driven player for Minecraft Bedrock edition, developed using Python.
+- **Bluetooth CAR**: A Bluetooth-controlled car project, likely utilizing Arduino for hardware control.
+- **AI Chatbot Free App**: A free application featuring an AI-powered chatbot for interactive user experiences.
 
-- Artificial Intelligence & Machine Learning  
-- Web and App Development  
-- Cybersecurity & Ethical Hacking  
-- Open Source Contribution  
-- Creative Problem Solving with Code  
+## Certificates
 
----
+- Network Exploitation Basics
+- Fundamentals of IP Addressing and Subnetting
+- Data Analysis with Python
 
-## 📫 Let's Connect
+## Contact
 
-- 💌 DM me directly here on GitHub 
+- **Email**: [youseffo2fo2@gmail.com](mailto:youseffo2fo2@gmail.com)
+- **GitHub**: [YOUSEFISLAM-dev](https://github.com/YOUSEFISLAM-dev)
+- **LinkedIn**: [Yousef Islam](https://eg.linkedin.com/in/yousef-islam-470788287)
 
----
+## GitHub Stats
 
-## 🔧 Currently Working On
-
-- Learning **offensive & defensive cybersecurity**
-- Building small tools to automate tasks and learn systems better
-- Expanding my GitHub with meaningful, open-source contributions
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-<!---
-YOUSEFISLAM-dev/YOUSEFISLAM-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUSEFISLAM-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
