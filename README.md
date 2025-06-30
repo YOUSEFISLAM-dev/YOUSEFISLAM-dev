@@ -49,24 +49,81 @@
 
 <br>
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **Advanced File Organizer Batch**: A batch tool for automatic file organization by extension, date, size, or removing empty folders. ([Learn More](https://yousef-dev.tech/selfhosted/organizer_web.shtml))
-  <p align="center">
-  </p>
+---
 
-- **Minecraft Bedrock AI Player (Python)**: An AI-driven player for Minecraft Bedrock edition, developed using Python.
-  <p align="center">
-  </p>
+### 📂 Advanced File Organizer Batch  
+> **Automate. Declutter. Conquer.**  
+> A powerhouse Windows batch script that intelligently sorts your files by extension, date, or size—and even clears out empty folders—so you can spend less time organizing and more time creating.  
 
-- **Bluetooth CAR**: A Bluetooth-controlled car project, likely utilizing Arduino for hardware control.
-  <p align="center">
-  </p>
+<p align="center">
+  <a href="https://yousef-dev.tech/selfhosted/organizer_web.shtml">
+    <img src="https://img.shields.io/badge/Visit-Organizer_Web-blue?logo=windows&style=for-the-badge" alt="Learn More">
+  </a>
+</p>
 
-- **AI Chatbot Free App**: A free application featuring an AI-powered chatbot for interactive user experiences.
-  <p align="center">
-  </p>
+**🔧 Tech Stack:** Batch Script • PowerShell  
+**⚙️ Key Features:**  
+- Sort by **extension**, **date**, or **size**  
+- Auto-remove **empty** folders  
+- Customizable folder mappings via simple config  
 
+---
+
+### 🤖 Minecraft Bedrock AI Player (Python)  
+> **Play smarter, not harder.**  
+An AI-driven “bot” that can explore, build, and interact within Minecraft Bedrock—ideal for testing automations, speedruns, or simply marveling at what AI can do in your favorite sandbox.  
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Learn-Bedrock_AI_Player-blue?logo=python&style=for-the-badge" alt="Learn More">
+  </a>
+</p>
+
+**⚙️ Key Features:**  
+- **Pathfinding** & **navigation** in custom maps  
+- Automated **resource gathering**  
+- Configurable **behavior scripts**  
+
+---
+
+### 🚗 Bluetooth Car (Arduino)  
+> **Drive it with your phone!**  
+A compact, Arduino-powered 4-wheel car you control via Bluetooth—perfect for robotics beginners who want hands-on hardware, high-end sensors, and fun coding.  
+
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Learn-Bluetooth_Car-red?logo=arduino&style=for-the-badge" alt="Learn More">
+  </a>
+</p>
+
+**🔧 Tech Stack:** Arduino UNO • HC-05 Bluetooth • L298N Driver  
+**⚙️ Key Features:**  
+- **Real-time** motor control via mobile app  
+- Add-on modules: **LEDs**, **sensors**, **camera**  
+- Fully **extensible** codebase  
+
+---
+
+### 💬 AI Chatbot Free App  
+> **Your pocket AI companion, free .**  
+A lightweight mobile/web app featuring a friendly, GPT-powered chatbot—no subscription required. Engage in natural conversations, get instant answers, and integrate into your own projects.  
+
+<p align="center">
+  <a href="https://galaxystore.samsung.com/detail/com.yousefai.kosharyaia">
+    <img src="https://img.shields.io/badge/Learn-AI_Chatbot_Free-yellow?logo=javascript&style=for-the-badge" alt="Learn More">
+  </a>
+</p>
+
+**🔧 Tech Stack:** React • Node.js • OpenAI API  
+**⚙️ Key Features:**  
+- Multi-platform: **Web**, **Android**, **iOS**  
+- **Context-aware** conversation threads  
+- **Customizable** personality & knowledge base  
+
+---
+<br>
 ## 🛠️ Tech Stack & Tools
 
 <details open>
@@ -89,7 +146,7 @@
   </p>
 </details>
 
-<details open>
+<details>
   <summary><b>📦 Frameworks & Libraries</b></summary>
   <br>
   <p align="center">
