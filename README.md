@@ -46,7 +46,6 @@
 
 💬 Ask me about **Web Development, Python AI, Arduino Projects**
 
-⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
 
 <br>
 
