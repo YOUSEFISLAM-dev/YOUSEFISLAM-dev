@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Creative Developer & AI Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Creative%20Developer%20&%20AI%20Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">Passionate Creative Developer with a strong interest in AI technologies 🤖. I enjoy building intuitive and dynamic web applications 🌐 and exploring the intersection of design and artificial intelligence 🎨. My goal is to leverage technology to create impactful and innovative solutions.</p>
