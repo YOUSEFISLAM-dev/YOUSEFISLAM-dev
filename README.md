@@ -54,22 +54,18 @@
 
 - **Advanced File Organizer Batch**: A batch tool for automatic file organization by extension, date, size, or removing empty folders. ([Learn More](https://yousef-dev.tech/selfhosted/organizer_web.shtml))
   <p align="center">
-    <img src="https://via.placeholder.com/600x300.png?text=Organizer+Demo" alt="Organizer Demo" width="600"/>
   </p>
 
 - **Minecraft Bedrock AI Player (Python)**: An AI-driven player for Minecraft Bedrock edition, developed using Python.
   <p align="center">
-    <img src="https://via.placeholder.com/600x300.png?text=Minecraft+AI+Demo" alt="Minecraft AI Demo" width="600"/>
   </p>
 
 - **Bluetooth CAR**: A Bluetooth-controlled car project, likely utilizing Arduino for hardware control.
   <p align="center">
-    <img src="https://via.placeholder.com/600x300.png?text=Bluetooth+Car+Demo" alt="Bluetooth Car Demo" width="600"/>
   </p>
 
 - **AI Chatbot Free App**: A free application featuring an AI-powered chatbot for interactive user experiences.
   <p align="center">
-    <img src="https://via.placeholder.com/600x300.png?text=Chatbot+Demo" alt="Chatbot Demo" width="600"/>
   </p>
 
 ## 🛠️ Tech Stack & Tools
